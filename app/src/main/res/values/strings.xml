@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Project Blaze</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_login">Login</string>
+    <string name="threatzone_detected">***!!!You are in a threatzone, please evacuate!!!***</string>
+    <string name="threatzone_evacuated">You have left the threatzone area.</string>
+    <string name="threatzone_updated">Successfully updated current threatzones</string>
+    <string name="empty_ID">User ID is empty</string>
+</resources>
